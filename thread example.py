@@ -1,4 +1,4 @@
-import time, requests, threading
+import time, threading
 
 def thread1():
 	while 1:
